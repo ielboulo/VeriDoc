@@ -36,7 +36,7 @@ const App = () => {
 const YourMainComponent = ({ selectedFile, onFileChange }) => {
   const { wallet, connect, disconnect } = useWallet();
 
-    // IPFS client setup
+    // IPFS client setup , need to install npm install ipfs-http-client
   const ipfsClient = ipfs({
     host: "ipfs.infura.io",
     port: 5001,
