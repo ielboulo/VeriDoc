@@ -55,6 +55,13 @@ const YourMainComponent = ({ selectedFile, onFileChange }) => {
     disconnect();
   };
 
+    const uploadToIPFS = async () => {
+    if (!selectedFile) {
+      alert("Please select a file.");
+      return;
+    }
+
+
   const authenticateUser = async () => {
     if (!wallet) {
       alert("Please connect your Phantom wallet.");
