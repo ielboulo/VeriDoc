@@ -31,7 +31,9 @@ const App = () => {
         "https://api.devnet.solana.com",
         "confirmed"
       );
-      const programId = new PublicKey("YourAnchorProgramId11111111111111111"); // Replace with your program ID
+      const programId = new PublicKey(
+        "F3VjRezqZJvZKukc6ANZbGwBZYNTjzRTjtAq3bYzYe5w"
+      ); // Replace with your program ID
       const userWallet = wallet?.publicKey;
 
       const dataAccount = new PublicKey(
