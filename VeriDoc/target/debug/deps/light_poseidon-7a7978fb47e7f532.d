@@ -1,0 +1,9 @@
+C:\Programación\VeriDoc\VeriDoc\target\debug\deps\liblight_poseidon-7a7978fb47e7f532.rmeta: C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\light-poseidon-0.2.0\src\lib.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\light-poseidon-0.2.0\src\parameters\mod.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\light-poseidon-0.2.0\src\parameters\bn254_x5.rs
+
+C:\Programación\VeriDoc\VeriDoc\target\debug\deps\liblight_poseidon-7a7978fb47e7f532.rlib: C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\light-poseidon-0.2.0\src\lib.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\light-poseidon-0.2.0\src\parameters\mod.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\light-poseidon-0.2.0\src\parameters\bn254_x5.rs
+
+C:\Programación\VeriDoc\VeriDoc\target\debug\deps\light_poseidon-7a7978fb47e7f532.d: C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\light-poseidon-0.2.0\src\lib.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\light-poseidon-0.2.0\src\parameters\mod.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\light-poseidon-0.2.0\src\parameters\bn254_x5.rs
+
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\light-poseidon-0.2.0\src\lib.rs:
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\light-poseidon-0.2.0\src\parameters\mod.rs:
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\light-poseidon-0.2.0\src\parameters\bn254_x5.rs:

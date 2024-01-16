@@ -1,0 +1,7 @@
+C:\Programación\VeriDoc\VeriDoc\target\debug\deps\libsha3-f1c30c889ac4f921.rmeta: C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha3-0.10.8\src\lib.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha3-0.10.8\src\macros.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha3-0.10.8\src\state.rs
+
+C:\Programación\VeriDoc\VeriDoc\target\debug\deps\sha3-f1c30c889ac4f921.d: C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha3-0.10.8\src\lib.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha3-0.10.8\src\macros.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha3-0.10.8\src\state.rs
+
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha3-0.10.8\src\lib.rs:
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha3-0.10.8\src\macros.rs:
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha3-0.10.8\src\state.rs:

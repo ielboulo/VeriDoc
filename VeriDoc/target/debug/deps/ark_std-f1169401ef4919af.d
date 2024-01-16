@@ -1,0 +1,12 @@
+C:\Programación\VeriDoc\VeriDoc\target\debug\deps\libark_std-f1169401ef4919af.rmeta: C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\lib.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\mod.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\error.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\error.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\rand_helper.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\perf_trace.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\mod.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\rev.rs
+
+C:\Programación\VeriDoc\VeriDoc\target\debug\deps\ark_std-f1169401ef4919af.d: C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\lib.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\mod.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\error.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\error.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\rand_helper.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\perf_trace.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\mod.rs C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\rev.rs
+
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\lib.rs:
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\mod.rs:
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\io\error.rs:
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\error.rs:
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\rand_helper.rs:
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\perf_trace.rs:
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\mod.rs:
+C:\Users\Matia\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ark-std-0.4.0\src\iterable\rev.rs:
