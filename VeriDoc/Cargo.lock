@@ -3,14 +3,6 @@
 version = 3
 
 [[package]]
-name = "VeriDoc"
-version = "0.1.0"
-dependencies = [
- "borsh 0.9.3",
- "solana-program",
-]
-
-[[package]]
 name = "ahash"
 version = "0.7.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1370,6 +1362,14 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "5c5713f0fc4b5db668a2ac63cdb7bb4469d8c9fed047b1d0292cc7b0ce2ba921"
 dependencies = [
  "tinyvec",
+]
+
+[[package]]
+name = "veri_doc"
+version = "0.1.0"
+dependencies = [
+ "borsh 0.9.3",
+ "solana-program",
 ]
 
 [[package]]
