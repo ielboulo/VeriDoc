@@ -1,4 +1,5 @@
 # VeriDoc : Trust your files
+![VeriDoc_Slides](https://github.com/ielboulo/VeriDoc/assets/46560616/96bd6bf6-6c44-45b3-a534-ac0d9862d2a9)
 
 VeriDoc is a solana blockchain based solution in order to authenticate official documents.
 
@@ -45,6 +46,7 @@ Handles the VerifyDocument instruction.
 
 1- Invoke the SignDocument instruction to sign a document.
 2- Use the VerifyDocument instruction for verification.
+<img width="1240" alt="Capture d’écran 2024-01-17 à 01 50 30" src="https://github.com/ielboulo/VeriDoc/assets/46560616/9c821b2a-6c5e-47b7-9614-4ca406b87be4">
 
 ## Roadmap
 Future implementations plan to integrate with ShadowDrive for storing files directly in the Solana ecosystem.
