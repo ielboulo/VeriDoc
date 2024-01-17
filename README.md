@@ -30,9 +30,9 @@ Accounts:
 **SignedDocument**
 -Description: Represents the state of a signed document.
 **Fields:**
--hash: *String* - The hash of the document.
--signer_pubkey: *Pubkey* - The public key of the user who signed the document.
--timestamp: *i64* - The Unix timestamp at which the document was signed.
+- hash: *String* - The hash of the document.
+- signer_pubkey: *Pubkey* - The public key of the user who signed the document.
+- timestamp: *i64* - The Unix timestamp at which the document was signed.
 
 ## Instruction Handlers
 **sign_document**
