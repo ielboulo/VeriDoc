@@ -44,8 +44,9 @@ Handles the VerifyDocument instruction.
 
 ## Usage
 
-1- Invoke the SignDocument instruction to sign a document.
-2- Use the VerifyDocument instruction for verification.
+- Invoke the SignDocument instruction to sign a document.
+- Use the VerifyDocument instruction for verification.
+
 <img width="1240" alt="Capture d’écran 2024-01-17 à 01 50 30" src="https://github.com/ielboulo/VeriDoc/assets/46560616/9c821b2a-6c5e-47b7-9614-4ca406b87be4">
 
 ## Roadmap
@@ -56,16 +57,14 @@ The goal is to sign hashes from documents stored within the Solana ecosystem its
 **This project is for educational purposes as part of the Solana Bootcamp by Encode Club.**
 
 
-for front end , go to cd frontend 
-then -->  npm i or npm install
-then  npm start
+for front end:
+- go to cd frontend 
+- then :  npm i or npm install
+- then : npm start
 
-For the backend 
-ensure that you have solana and rustc 
-cd VeriDoc 
-
-solana install
-rustc install 
-then 
-
-Cargo build 
+For the backend:
+- ensure that you have solana and rustc
+- cd VeriDoc
+- solana install
+- rustc install
+- cargo build 
