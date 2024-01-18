@@ -58,13 +58,20 @@ The goal is to sign hashes from documents stored within the Solana ecosystem its
 
 
 for front end:
-- go to cd frontend 
+- go to
+  ```
+  cd frontend
+  ``` 
 - then :  npm i or npm install
 - then : npm start
 
 For the backend:
 - ensure that you have solana and rustc
-- cd VeriDoc
+```
+  cd VeriDoc
+```
 - solana install
 - rustc install
-- cargo build 
+```
+  cargo build 
+```
