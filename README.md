@@ -28,7 +28,7 @@ Accounts:
 
 ## Data Structure
 **SignedDocument**
--Description: Represents the state of a signed document.
+- Description: Represents the state of a signed document.
 **Fields:**
 - hash: *String* - The hash of the document.
 - signer_pubkey: *Pubkey* - The public key of the user who signed the document.
