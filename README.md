@@ -62,9 +62,18 @@ for front end:
   ```
   cd frontend
   ``` 
-- then :  npm i or npm install
-- then : npm start
-
+- then :
+  ```
+   npm i
+  ```
+   or
+  ```
+   npm install
+  ```
+- then :
+  ```
+    npm start
+  ```
 For the backend:
 - ensure that you have solana and rustc
 ```
